@@ -1,6 +1,6 @@
 {
   "name": "@eternalbright/dotfiles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The set of node configs",
   "repository": {
     "type": "git",
@@ -13,6 +13,11 @@
   },
   "homepage": "https://github.com/eternalbright/node-dotfiles#readme",
   "dependencies": {
-    "@tsconfig/node-lts-strictest": "^18.12.1"
+    "@tsconfig/node-lts-strictest": "^18.12.1",
+    "@typescript-eslint/eslint-plugin": "^5.36.1",
+    "@typescript-eslint/parser": "^5.42.1",
+    "eslint-config-airbnb-typescript": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-sort-keys": "^2.3.5"
   }
 }
