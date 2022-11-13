@@ -1,0 +1,18 @@
+{
+  "name": "@eternalbright/dotfiles",
+  "version": "1.0.0",
+  "description": "The set of node configs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eternalbright/node-dotfiles.git"
+  },
+  "author": "Oleksandr Mykhailovskyi <eternalbright@pm.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eternalbright/node-dotfiles/issues"
+  },
+  "homepage": "https://github.com/eternalbright/node-dotfiles#readme",
+  "dependencies": {
+    "@tsconfig/node-lts-strictest": "^18.12.1"
+  }
+}

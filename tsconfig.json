@@ -1,0 +1,14 @@
+{
+  "extends": "@tsconfig/node-lts-strictest",
+  "compilerOptions": {
+    "lib": [
+        "ESNext"
+    ],
+    "strict": true,
+    "outDir": "../../../dist",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "forceConsistentCasingInFileNames": true,
+    "exactOptionalPropertyTypes": true
+  }
+}
