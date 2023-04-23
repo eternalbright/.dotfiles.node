@@ -1,0 +1,18 @@
+{
+  "name": "@eternalbright/dotfiles",
+  "version": "1.0.0",
+  "description": "The set of Node.js configs",
+  "author": "Oleksandr Mykhailovskyi <eternalbright@pm.me>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eternalbright/.dotfiles.node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eternalbright/.dotfiles.node/issues"
+  },
+  "homepage": "https://github.com/eternalbright/.dotfiles.node#readme"
+}

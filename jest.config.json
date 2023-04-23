@@ -1,0 +1,11 @@
+{
+  "automock": true,
+  "cacheDirectory": "../.jest/cache",
+  "clearMocks": true,
+  "collectCoverageFrom": [
+    "**/*.ts"
+  ],
+  "coverageDirectory": "../.jest/coverage",
+  "coverageProvider": "v8",
+  "testEnvironment": "node"
+}
